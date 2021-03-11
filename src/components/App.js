@@ -10,7 +10,7 @@ class App extends Component {
 
 handleClick(){
  this.setState({display:true});
-console.log('l')
+
  
 }
 
